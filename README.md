@@ -1,5 +1,7 @@
 # Sudoku
 
+![sudoku copy](https://github.com/user-attachments/assets/ff43f65a-d0b8-475c-aed7-8189c064bce1)
+
 This is the code for our AP CSA command line sudoku project. 
 
 The following is an explanation of each function utilized in our program:
