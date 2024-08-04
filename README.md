@@ -2,7 +2,7 @@
 
 ![sudoku copy](https://github.com/user-attachments/assets/ff43f65a-d0b8-475c-aed7-8189c064bce1)
 
-This is the code for our AP CSA command line sudoku project. 
+This is the code for command line sudoku. 
 
 The following is an explanation of each function utilized in our program:
 
@@ -25,4 +25,4 @@ The following is an explanation of each function utilized in our program:
 9. main(String[] args)
     The main function that orchestrates the entire Sudoku game, including generating the board, managing player input and game outcomes, and prompting the player for a rematch.
 
-We hope you enjoy our game! Feel free to include submit any questions or issues!
+We hope you enjoy the game! Feel free to include submit any questions or issues!
